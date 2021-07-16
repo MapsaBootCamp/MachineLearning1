@@ -41,7 +41,7 @@ class LinkedList:
     def insert(self, node: LinkedListNode, index: int):
         pass
 
-    def remove(self, node: LinkedList):
+    def remove(self, node: LinkedListNode):
         pass
 
     def flush(self):
